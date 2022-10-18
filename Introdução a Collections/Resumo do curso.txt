@@ -1,0 +1,52 @@
+Collections:
+
+https://docs.python.org/3/tutorial/datastructures.html
+
+list.append(valor) -> adiciona no final um valor
+
+
+len(list) -> mostra o tamanho da lista
+
+
+list.remove(valor) -> remove o primeiro valor encontrado na lista
+
+list.clear() -> remove todos os elementos da lista
+
+
+
+valor in list -> verifica se o valor esta dentro da lista: EX:
+if valor in list:
+list.remove(valor)
+
+list.insert(posição, valor) -> insere o valor na posição 
+
+list.extend(valor1,valor2,valor3, valorX) -> extende a lista para os valores 
+
+
+
+
+[(list+1) for valor in list] -> em cada valor da list cria uma nova list e soma cada elemento =1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
