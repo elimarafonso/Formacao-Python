@@ -1,2 +1,1 @@
-# Formacao-Python
-#Repositório para Testes e Treinamentos Orientado a Objetos
+# Repositório para Testes e Treinamentos Orientado a Objetos
